@@ -1,7 +1,7 @@
 # CNNs using TensorFlow
 
 
-The following projects are based on the programming assignments of deeplearning.ai, course Convolutional Neural Networks
+The following projects are based on the programming assignments of deeplearning.ai, course Convolutional Neural Networks. They were implemented in Keras and I re-implemented them using TensorFlow.
 
 * [Project 1](https://github.com/vasilismg/CNNs_TensorFlow/tree/master/Detect_happiness): Build a convolutional neural network (CNN) to detect from their picture whether a person is happy or not.
 
