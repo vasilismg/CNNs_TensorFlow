@@ -1,4 +1,4 @@
-# CNNs using TensorFlow
+# CNNs projects
 
 
 The following projects are based on the programming assignments of deeplearning.ai, course Convolutional Neural Networks. They were implemented in Keras and I reimplemented them using TensorFlow.
