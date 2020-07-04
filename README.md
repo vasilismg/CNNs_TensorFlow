@@ -11,4 +11,4 @@ My own implementations of various Natural Language Processing projects inspired 
 A full list of the requirements is given for each project separately. The deep learning library used in all projects is TensorFlow 1.x.
 
 ## Reference
-[deeplearning.ai Sequence models](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+[deeplearning.ai Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
