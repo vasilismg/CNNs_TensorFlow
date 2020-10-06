@@ -1,6 +1,6 @@
 # CNNs projects
 
-My own implementations of various Natural Language Processing projects inspired by various online courses.
+My own implementations of various Convolutional Neural Network projects inspired by various online courses.
 
 * [CNN binary classifier](https://github.com/vgkortsas/CNNs_TensorFlow/tree/master/CNN_binary_classifier): Build a convolutional neural network (CNN) to detect from their picture whether a person is happy or not.
 
