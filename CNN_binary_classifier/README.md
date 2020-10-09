@@ -1,7 +1,7 @@
 # CNN binary classifier
 
 Build a convolutional neural network (CNN) to detect from their picture whether a person is happy or not.
-([Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/CNNs_projects/blob/master/CNN_binary_classifier/CNN_binary_classifier.ipynb))
+*	[Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/CNNs_projects/blob/master/CNN_binary_classifier/CNN_binary_classifier.ipynb)
 
 This project is based on the corresponding programming assignment of deeplearning.ai, course Convolutional Neural Networks. It was implemented in Keras and I reimplemented it using TensorFlow 1.14.
 
