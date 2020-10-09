@@ -1,4 +1,5 @@
 # Residual Neural Network
+
 Implement and train a state-of-the-art Residual Neural Network (ResNet) for image classification.
 *	[Jupyter Notebook](https://nbviewer.jupyter.org/github/vgkortsas/CNNs_projects/blob/master/Residual_Neural_Network/Residual_Network.ipynb)
 
